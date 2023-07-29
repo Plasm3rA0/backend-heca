@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZrRQQYgbu18w4JRNSL6E4yC3GapAWMbPjKRCGjgnbAE=",
+  "Source": "backend-heca",
+  "BasePath": "_content/backend-heca",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
